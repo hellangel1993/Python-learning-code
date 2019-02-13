@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>76be5811-2b93-4f22-9e83-eab55632def5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplication1.py</StartupFile>
+    <StartupFile>Getting input from user.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Getting input from user.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Working with number.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="variable.py">
       <SubType>Code</SubType>
     </Compile>
