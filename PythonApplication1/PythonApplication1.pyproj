@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>76be5811-2b93-4f22-9e83-eab55632def5</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Getting input from user.py</StartupFile>
+    <StartupFile>Function.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Converting_string_to_int.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Function.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Getting input from user.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="laist_function.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="lists.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tuple.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Working with number.py">

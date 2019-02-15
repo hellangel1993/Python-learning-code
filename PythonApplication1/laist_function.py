@@ -1,0 +1,13 @@
+ab=[0,1,2,3,1,5,6,7,8,90,]
+ba=["sadg","waegh","wegtq","qwedsc","uilkuyksds","edssfuj","qsdxgfhe"]
+#ba.extend(ab)
+#ba.append("oi3jro")
+#ba.insert(2,"him")
+#ba.remove("sadg")
+#ba.clear()
+#ba.pop()
+#print(ab.index(90))
+#print(ab.count(1))
+bba=ba.copy()
+print(bba)
+print(ba)
